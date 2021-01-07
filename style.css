@@ -100,6 +100,11 @@ fn{
   background-color: #242424;
 }
 
+fsm{
+  /* background-color: snow; */
+  font-size: 3rem;
+}
+
 gg {
   box-sizing: border-box;
   font-family: "Barlow Condensed", sans-serif;
